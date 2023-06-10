@@ -1,7 +1,6 @@
 # Hands-on Flask-01-02 : Creating First Flask Application - Hello World and basic usage of Jinja Templates
 
 Purpose of the this hands-on training is to give the students quick introductory knowledge of how to create a Flask web application on local.
-
 ## Learning Outcomes
 
 At the end of the this hands-on training, students will be able to;
